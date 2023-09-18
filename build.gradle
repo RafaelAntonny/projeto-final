@@ -26,7 +26,7 @@ dependencies {
 
 tasks.jar {
 	manifest {
-		attributes["Main-Class"] = "package me.dio.santanderdevweek2023.Application" 
+		attributes["Main-Class"] = "me.dio.santanderdevweek2023.Application" 
 	}
 }
 
